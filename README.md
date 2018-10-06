@@ -1,2 +1,2 @@
 # News-System
-Realized a news press system by java
+Realized a news press system by java on Tomcat
